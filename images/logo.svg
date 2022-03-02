@@ -1,0 +1,13 @@
+<svg width="184.136" height="46.36" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="Logo">
+   <path fill="#3dcfd3" d="m23.17999,46.36a23.108,23.108 0 1 1 9.023,-1.822a23.034,23.034 0 0 1 -9.023,1.822zm0,-33.3a10.12,10.12 0 1 0 10.12,10.12a10.132,10.132 0 0 0 -10.12,-10.12z" data-name="Layer 14" id="Layer_14"/>
+   <text x="124.13599" y="32.911" font-family="Poppins-Regular, Poppins" font-size="28" fill="#fff" id="Creative">
+    <tspan id="svg_1" y="0" x="323.868">Creative</tspan>
+   </text>
+  </g>
+  <text stroke-width="0.5" style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="'Lexend'" font-size="24" id="svg_2" y="32" x="75" stroke="#000" fill="none">Portfolio</text>
+ </g>
+</svg>
